@@ -1,0 +1,16 @@
+.add-item-container{
+    margin: 16px;
+}
+
+.input-style{
+width: 70%;
+height: 36px;
+}
+.button-style{
+  width: 28%;
+  height: 36px;
+  font-size: 18px;
+  color: white;
+  font-weight: 700;
+  background-color: coral;
+}

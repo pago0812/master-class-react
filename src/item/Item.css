@@ -1,0 +1,15 @@
+.check-box {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-right:8px;
+    cursor: pointer;
+}
+
+.green{
+    background-color: green;
+}
+
+.gray{
+    background-color: gray;
+}
