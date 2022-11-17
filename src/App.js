@@ -27,6 +27,7 @@ function App() {
   return (
     <div className="main-component">
       <Header></Header>
+      <p>Pony macho is here</p>
       <AddItem addMyItem={addMyItem}></AddItem>
       <ItemList
         updateCheck={updateCheck}
